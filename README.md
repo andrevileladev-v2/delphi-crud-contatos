@@ -23,7 +23,7 @@ O sistema implementa um CRUD de contatos, integrando com banco **MS Access (MDB)
 - `assets/contatos.mdb`: Banco de dados Access utilizado
 
 ## 📸 Demonstração
-_(adicione aqui prints do formulário rodando, com DBGrid e imagem carregada)_
+![Demonstração do CRUD em Delphi](demo.gif)
 
 ## 📌 Como executar
 1. Clonar o repositório  
